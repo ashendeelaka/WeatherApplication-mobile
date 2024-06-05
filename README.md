@@ -25,3 +25,19 @@ The Weather Application is an Android app that provides current weather informat
    ```sh
    git clone https://github.com/yourusername/weather-app.git
    cd weather-app
+
+## User Guide
+
+### Main Screen
+- **Latitude and Longitude:** Displays the current latitude and longitude of the device in decimal in degrees format.
+- **Address:** Shows the reverse geo- coded address of your current location.
+- **Current time:** Displays the current system time.
+- **Weather Information:** Shows the current temperature, humidity and weather description
+
+### Permission
+- On first launch, the app will request permission to access your location. Please grant the necessary permissions for the app to function correctly.
+## Contact
+
+For any questions or support, please open an issue on GitHub or contact me at *ashendeelakahhk@gmail.com*
+
+**Author - Ashen Deelaka**
