@@ -10,7 +10,7 @@ The Weather Application is an Android app that provides current weather informat
 - Fetch and display current weather information (temperature, humidity, and weather description).
 
 ## Screenshots
-![Main Screen](sc)
+![main-screen-screenshot-android-weather-app](https://github.com/ashendeelaka/WeatherApplication-mobile/assets/122264429/9a2f4109-a478-4383-a7ca-0015b5a427f7)
 
 ## Installation Steps
 
